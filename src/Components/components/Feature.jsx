@@ -66,7 +66,7 @@ export default function Features() {
     return (
         <>
             <div className=' mx-auto mt-20 mb-8 md:mb-12 lg:mb-16' id='Feature'>
-                <h1 className='heading text-4xl sm:text-6xl font-bold text-[#020842] ml-16 md:ml-32 mt-8' ref={heading}>Why Nexus Startup?</h1>
+                <h1 className='heading text-4xl sm:text-6xl font-bold text-[#020842] ml-16 md:ml-32 mt-8' ref={heading}>Why Startup Nexus?</h1>
 
                 <div className='grid gap-10 md:gap-12 lg:gap-20 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mx-auto mt-10 md:mt-20 lg:ml-32 lg:mr-32 ml-12 mr-12'>
 

@@ -9,8 +9,10 @@ Welcome to Startup Nexus, a revolutionary virtual incubator designed to transfor
 **Website Link** :- https://startupnexus.azurewebsites.net/
 <br>
 
+![Screenshot 2024-07-22 164516](https://github.com/user-attachments/assets/7e0bb9c6-2af3-4f39-9c78-5812bf284cf4)
+
 <div>
- ![image](https://github.com/user-attachments/assets/cce06dea-1858-41bd-8012-6046cf94d222)
+
 
 </div>
 

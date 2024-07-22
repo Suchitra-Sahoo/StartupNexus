@@ -73,9 +73,6 @@ npm run dev
 
 <hr> 
 
-<div>
-  <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" width="35" height="35"> Ready to Contribute?</h2>
-</div>
 
 <div>
   <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" width="35" height="35"> Show Your Support</h2>
